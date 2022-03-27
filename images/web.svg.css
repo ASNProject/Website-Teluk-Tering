@@ -1,0 +1,494 @@
+/* Home */
+
+
+position: relative;
+width: 1383px;
+height: 2354px;
+
+background: #FFFFFF;
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1386px;
+height: 158px;
+left: 0px;
+top: 2196px;
+
+background: #D7D7D7;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 1388px;
+height: 1370px;
+left: -5px;
+top: 125px;
+
+background: #D7D7D7;
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 104px;
+height: 260px;
+left: 136px;
+top: 1551px;
+
+background: url(SDGSDG BARU.png);
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 1327px;
+height: 645px;
+left: 56px;
+top: 770px;
+
+background: url(COVID TEL-TERING.jpg);
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 141px;
+height: 179px;
+left: 6px;
+top: 1681px;
+
+
+
+/* KELURAHAN TELUK KERING */
+
+
+position: absolute;
+width: 781px;
+height: 137px;
+left: 26px;
+top: 166px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 96px;
+line-height: 112px;
+
+color: #000000;
+
+mix-blend-mode: normal;
+border: 1px solid #000000;
+
+
+/* KECAMATAN BATAM KOTA */
+
+
+position: absolute;
+width: 354px;
+height: 33px;
+left: 26px;
+top: 399px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* HOME */
+
+
+position: absolute;
+width: 43px;
+height: 33px;
+left: 166px;
+top: 58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* PENGURUSAN DOKUMEN */
+
+
+position: absolute;
+width: 167px;
+height: 33px;
+left: 347px;
+top: 58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 101px;
+height: 98px;
+left: 13px;
+top: 15px;
+
+background: url(image.png);
+
+
+/* PROFIL */
+
+
+position: absolute;
+width: 58px;
+height: 33px;
+left: 252px;
+top: 58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* INFORMASI DATA */
+
+
+position: absolute;
+width: 124px;
+height: 33px;
+left: 549px;
+top: 58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* LAYANAN PENGADUAN */
+
+
+position: absolute;
+width: 151px;
+height: 33px;
+left: 699px;
+top: 58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 234px;
+height: 41px;
+left: 1109px;
+top: 48px;
+
+background: #D7D7D7;
+border-radius: 50px;
+
+
+/* Search */
+
+
+position: absolute;
+width: 74px;
+height: 28px;
+left: 1194px;
+top: 54px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 100;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+
+
+/* PENGURUSAN DOKUMEN */
+
+
+position: absolute;
+width: 552px;
+height: 57px;
+left: 418px;
+top: 1529px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 56px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* SURAT KETERANGAN */
+
+
+position: absolute;
+width: 194px;
+height: 28px;
+left: 101px;
+top: 1740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* SURAT PINDAH MASUK */
+
+
+position: absolute;
+width: 192px;
+height: 28px;
+left: 595px;
+top: 1740px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* AKTE KEMATIAN */
+
+
+position: absolute;
+width: 150px;
+height: 28px;
+left: 624px;
+top: 1923px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* PEMBUATAN ATAU PERUBAHAN KARTU KELUARGA */
+
+
+position: absolute;
+width: 437px;
+height: 30px;
+left: 480px;
+top: 2112px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* SURAT KETERANGAN USAHA */
+
+
+position: absolute;
+width: 243px;
+height: 28px;
+left: 77px;
+top: 1923px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* PENGANTAR NIKAH CAPIL */
+
+
+position: absolute;
+width: 226px;
+height: 27px;
+left: 1094px;
+top: 1924px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* SURAT PINDAH KELUAR */
+
+
+position: absolute;
+width: 216px;
+height: 28px;
+left: 1104px;
+top: 1737px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+
+
+/* Group 1 */
+
+
+position: absolute;
+width: 1275px;
+height: 131px;
+left: 68px;
+top: 2216px;
+
+
+
+/* walikota 1 */
+
+
+position: absolute;
+width: 848px;
+height: 570px;
+left: 544px;
+top: 206px;
+
+background: url(walikota.png);
+
+
+/* kartu k png 1 */
+
+
+position: absolute;
+width: 188px;
+height: 130px;
+left: 595px;
+top: 1970px;
+
+background: url(kartu k png.png);
+
+
+/* BARU DATANG 1 */
+
+
+position: absolute;
+width: 83px;
+height: 121px;
+left: 651px;
+top: 1608px;
+
+background: url(BARU DATANG.png);
+
+
+/* PINDAH NEW PNG 1 */
+
+
+position: absolute;
+width: 84px;
+height: 126px;
+left: 1148px;
+top: 1608px;
+
+background: url(PINDAH NEW PNG.png);
+
+
+/* BARU EKSPOR SURAT PNG 1 */
+
+
+position: absolute;
+width: 173px;
+height: 60px;
+left: 122px;
+top: 1830px;
+
+background: url(BARU EKSPOR SURAT PNG.png);
+
+
+/* SURAT KEMATIAN PNG 1 */
+
+
+position: absolute;
+width: 136px;
+height: 117px;
+left: 626px;
+top: 1794px;
+
+background: url(SURAT KEMATIAN PNG.png);
+
+
+/* WhatsApp Image 2022-03-02 at 17.30 1 */
+
+
+position: absolute;
+width: 157px;
+height: 106px;
+left: 1116px;
+top: 1794px;
+
+background: url(WhatsApp Image 2022-03-02 at 17.30.jpg);
