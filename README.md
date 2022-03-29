@@ -1,4 +1,4 @@
-# Website-TeluK-Tering
+# Website-Teluk-Tering
 
 ##### Fitur
 - Tampilan Website sederhana
