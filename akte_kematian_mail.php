@@ -54,7 +54,7 @@ $mail->IsSMTP();
     $mail->Username = 'emailpengirim@gmail.com';                    //Sets SMTP username
     $mail->Password = 'passwordemailpengirim';                    //Sets SMTP password
     $mail->SMTPSecure = 'ssl';                            //Sets connection prefix. Options are "", "ssl" or "tls"
-    $mail->From = 'telukkeringsend01@gmail.com';                    //Sets the From email address for the message
+    $mail->From = 'emailpengirim@gmail.com';                    //Sets the From email address for the message
     $mail->FromName = '' .$_POST["nama"] . '';                //Sets the From name of the message
     $mail->AddAddress('emailpenerima@gmail.com', 'username email pengirim');        //Adds a "To" address
 // ADD YOUR DETAILS HERE
