@@ -2,7 +2,7 @@
 
 ##### Fitur
 - Tampilan Website sederhana
-- Form untuk berbagai keperluan dikelurahan
+- Form untuk berbagai keperluan pengurusan dokumen dikelurahan
 - Data dan File yang dimasukkan akan dikirimkan ke email kelurahan secara otomatis
 
 ##### Screenshoot
